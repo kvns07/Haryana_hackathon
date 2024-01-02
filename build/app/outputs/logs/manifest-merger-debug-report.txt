@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:2:5-32:19
+MERGED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\KVNS\.gradle\caches\transforms-3\9bb8e01553363eba701ce4f29b227829\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\KVNS\.gradle\caches\transforms-3\9bb8e01553363eba701ce4f29b227829\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\KVNS\.gradle\caches\transforms-3\a6ccebfa2b467663f69f628695176470\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\KVNS\.gradle\caches\transforms-3\a6ccebfa2b467663f69f628695176470\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KVNS\.gradle\caches\transforms-3\64d87a0361d7898a8a1715ff1fd0f8c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KVNS\.gradle\caches\transforms-3\64d87a0361d7898a8a1715ff1fd0f8c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:google_maps_flutter_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\KVNS\Documents\Haryana_hackathon\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:google_api_headers] C:\Users\KVNS\Documents\Haryana_hackathon\build\google_api_headers\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] C:\Users\KVNS\Documents\Haryana_hackathon\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\957bed1687753fd5b26d88ee505d8aa8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\KVNS\.gradle\caches\transforms-3\9bb8e01553363eba701ce4f29b227829\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\KVNS\.gradle\caches\transforms-3\a6ccebfa2b467663f69f628695176470\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\edb0d5d491b70da5c654d60d2999ad23\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\a490ed822854d868cf723d76e39c8525\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\444aa4d3520734306e5c2cf5fc85b1a0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\85302a929420149b32b77c750ed0eb61\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\b78bfa10a1ad3b92537b268d5b02aab7\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\55d1d85c242fcf9b07a41989e436b4e6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\KVNS\.gradle\caches\transforms-3\7bcba104852eaf8402465bfaae80827b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KVNS\.gradle\caches\transforms-3\64d87a0361d7898a8a1715ff1fd0f8c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\a723da876ace5102c38c1fa710eb784d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\ac8d2bbdb9e725c0b5080a858a7683c9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\ca472df37572ab8e3458664348038e1c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\2f6213781cd2db69c85ffb79a5d02287\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\d536b2fd702ad0587ee14252754c79c7\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\KVNS\.gradle\caches\transforms-3\9f0480b3f30ca6e210f012c3e40f36ec\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+MERGED from [:google_maps_flutter_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\KVNS\Documents\Haryana_hackathon\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\KVNS\Documents\Haryana_hackathon\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_api_headers] C:\Users\KVNS\Documents\Haryana_hackathon\build\google_api_headers\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_api_headers] C:\Users\KVNS\Documents\Haryana_hackathon\build\google_api_headers\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\Users\KVNS\Documents\Haryana_hackathon\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\Users\KVNS\Documents\Haryana_hackathon\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\957bed1687753fd5b26d88ee505d8aa8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\957bed1687753fd5b26d88ee505d8aa8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\KVNS\.gradle\caches\transforms-3\9bb8e01553363eba701ce4f29b227829\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\KVNS\.gradle\caches\transforms-3\9bb8e01553363eba701ce4f29b227829\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\KVNS\.gradle\caches\transforms-3\a6ccebfa2b467663f69f628695176470\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\KVNS\.gradle\caches\transforms-3\a6ccebfa2b467663f69f628695176470\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\edb0d5d491b70da5c654d60d2999ad23\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\edb0d5d491b70da5c654d60d2999ad23\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\a490ed822854d868cf723d76e39c8525\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\a490ed822854d868cf723d76e39c8525\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\444aa4d3520734306e5c2cf5fc85b1a0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\444aa4d3520734306e5c2cf5fc85b1a0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\85302a929420149b32b77c750ed0eb61\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\85302a929420149b32b77c750ed0eb61\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\b78bfa10a1ad3b92537b268d5b02aab7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\b78bfa10a1ad3b92537b268d5b02aab7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\55d1d85c242fcf9b07a41989e436b4e6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\55d1d85c242fcf9b07a41989e436b4e6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\KVNS\.gradle\caches\transforms-3\7bcba104852eaf8402465bfaae80827b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\KVNS\.gradle\caches\transforms-3\7bcba104852eaf8402465bfaae80827b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KVNS\.gradle\caches\transforms-3\64d87a0361d7898a8a1715ff1fd0f8c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\KVNS\.gradle\caches\transforms-3\64d87a0361d7898a8a1715ff1fd0f8c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\a723da876ace5102c38c1fa710eb784d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\a723da876ace5102c38c1fa710eb784d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\ac8d2bbdb9e725c0b5080a858a7683c9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\ac8d2bbdb9e725c0b5080a858a7683c9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\ca472df37572ab8e3458664348038e1c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KVNS\.gradle\caches\transforms-3\ca472df37572ab8e3458664348038e1c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\2f6213781cd2db69c85ffb79a5d02287\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\2f6213781cd2db69c85ffb79a5d02287\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\d536b2fd702ad0587ee14252754c79c7\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\d536b2fd702ad0587ee14252754c79c7\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\KVNS\.gradle\caches\transforms-3\9f0480b3f30ca6e210f012c3e40f36ec\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\KVNS\.gradle\caches\transforms-3\9f0480b3f30ca6e210f012c3e40f36ec\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\KVNS\Documents\Haryana_hackathon\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\Users\KVNS\Documents\Haryana_hackathon\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\KVNS\.gradle\caches\transforms-3\9b2846f8a22c5591f4436c3dd2c425a3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\KVNS\.gradle\caches\transforms-3\c9af7410aaf4bcabecd6fb9f4cd50f17\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\3af0ab6a59e16f632984ae7cae6cdb3d\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\KVNS\.gradle\caches\transforms-3\0fd3cdce09dadf132326b064f632dd7b\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.haryana_hackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.haryana_hackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\KVNS\.gradle\caches\transforms-3\e556eecf74dcd708a40fe0cf1e42db1f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94

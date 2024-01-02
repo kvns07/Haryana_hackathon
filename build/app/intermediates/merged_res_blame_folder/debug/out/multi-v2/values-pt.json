@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.haryana_hackathon.app-mergeDebugResources-13:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KVNS\\.gradle\\caches\\transforms-3\\e556eecf74dcd708a40fe0cf1e42db1f\\transformed\\core-1.9.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
